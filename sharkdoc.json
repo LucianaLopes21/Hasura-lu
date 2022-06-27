@@ -1,0 +1,7 @@
+
+{ 
+  "govcenter_base_uri": "http://localhost:1337",
+  "api_key": "9d365d54e331403fd60302a78187c6d2ee2cede77bb272ac8bba7b9492a18c09d65c14d5a37bd8adb9bcef1684f13347277b470ea502dc1286622135c8c2f9b88a07d9b34ebc2cecb10d0d6ad36fcf5ba93fa253f6cb722e332b5d2fac9428e6b3febcb0bf4488fab06afa90a9c3392aa77b98da9e4f3720cc2d2da2942492ec",
+  "doc_path": "/docs/",
+  "docproject": "./"
+}
